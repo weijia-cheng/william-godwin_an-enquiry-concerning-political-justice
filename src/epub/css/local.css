@@ -59,8 +59,8 @@ div header{
 }
 
 #summary-of-principles div > p{
-	text-indent: 0;
 	padding-left: 1em;
+	text-indent: 0;
 	text-indent: -1em;
 }
 
