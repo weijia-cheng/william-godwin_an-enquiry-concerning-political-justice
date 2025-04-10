@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-godwin/an-enquiry-concerning-political-justice</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-godwin/enquiry-concerning-political-justice</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">An Enquiry Concerning Political Justice</dc:title>
+		<dc:title id="title">Enquiry Concerning Political Justice</dc:title>
 		<meta property="file-as" refines="#title">Enquiry Concerning Political Justice, An</meta>
 		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
@@ -46,7 +46,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/An_Enquiry_Concerning_Political_Justice</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-godwin_an-enquiry-concerning-political-justice</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-godwin_enquiry-concerning-political-justice</meta>
 		<dc:creator id="author">William Godwin</dc:creator>
 		<meta property="file-as" refines="#author">Godwin, William</meta>
 		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>

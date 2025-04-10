@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 540">
-	<title>The titlepage for the Standard Ebooks edition of An Enquiry Concerning Political Justice, by William Godwin</title>
+	<title>The titlepage for the Standard Ebooks edition of Enquiry Concerning Political Justice, by William Godwin</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -16,7 +16,7 @@
 			font-size: 70.17543793px;
 		}
 	</style>
-	<text class="title" x="700" y="130">AN ENQUIRY</text>
+	<text class="title" x="700" y="130">ENQUIRY</text>
 	<text class="title" x="700" y="230">CONCERNING</text>
 	<text class="title" x="700" y="330">POLITICAL JUSTICE</text>
 	<text class="author" x="700" y="490">WILLIAM GODWIN</text>
